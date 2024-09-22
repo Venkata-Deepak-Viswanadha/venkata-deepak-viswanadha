@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hello there 👋!
 
-<!--
-**Venkata-Deepak-Viswanadha/venkata-deepak-viswanadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![version :07.16.2024](https://img.shields.io/badge/version-07.16.2024-informational) &nbsp;
+[![GitHub DeepakViswanadh](https://img.shields.io/github/followers/DeepakViswanadh?label=follow&style=social)](https://github.com/DeepakViswanadh)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-Here are some ideas to get you started:
+# 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 &nbsp; I'm a Full Stack Polyglot Developer and a master's student at Northeastern University, passionate about building user-centric solutions. With a strong foundation in computer science and extensive hands-on experience, I thrive on designing, developing, and maintaining distributed systems that make a global impact.
+
+💻 &nbsp; Currently, I am a Software Engineer Intern at Idaho National Laboratory, where I simplify the needs of end-users, one user at a time. My work involves enhancing both server-side logic and client-side functionality to deliver robust and responsive applications.
+
+🎓&nbsp; I hold around 4 years of professional experience, during which I've honed my skills in various domains such as system design, microservices architecture, and performance optimization. I have a proven track record of reducing UI load times, improving system throughput, and implementing scalable solutions.
+
+✍️ &nbsp; I'm particularly curious about security, performance optimization, and building high-performing yet simple software solutions. I enjoy tackling complex challenges and finding innovative ways to enhance system efficiency and reliability.
+
+💬 &nbsp; Feel free to reach out to me for discussions on system design, distributed systems, performance optimization, or any other related topics. I am always eager to connect and share knowledge.
+
+✉️ &nbsp; You can email me at deepak16c@gmail.com. I'll try to respond as soon as possible!
+
+📄 &nbsp; You can check my [LinkedIn](https://www.linkedin.com/in/deepakviswanadha/) for more details about my skills, work experience.
+
+# 📫 &nbsp; How to reach me:
+
+
+<a href="https://www.linkedin.com/in/deepakviswanadha/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:deepak16c@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
+
+# 🛠 &nbsp;Tech Stack
+
+## Languages:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+
+## Front-end Technologies:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)&nbsp;
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+
+## Back-end Technologies:
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)&nbsp;
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+![Resilience4j](https://img.shields.io/badge/Resilience4j-4AC0C5?style=for-the-badge&logo=resilience4j&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![ASP .NET Core](https://img.shields.io/badge/ASP%20.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![ASP .NET MVC](https://img.shields.io/badge/ASP%20.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
+
+## Databases:
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)&nbsp;
+![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Aurora](https://img.shields.io/badge/Aurora-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+
+## Process tools and CI/CD:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)&nbsp;
+![Zipkin](https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logo=zipkin&logoColor=white)&nbsp;
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+![GCS](https://img.shields.io/badge/GCS-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+
+## AWS:
+
+![AWS Certified Developer Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
